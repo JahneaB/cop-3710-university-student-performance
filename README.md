@@ -15,7 +15,8 @@ This database application is designed to track and analyze the relationship betw
 * **Registrar:** Responsible for maintaining the integrity of student records, course offerings, and official enrollment data.
 * **Academic Advisors:** Use the system to monitor student performance and lifestyle logs to provide proactive counseling and support.
 * **Students:** Can view their own enrollment history, grades, and computed GPA.
-#PART A
+  
+## PART A
 Project Scope:
 University Student Performance & Enrollment System
 • This project involves designing and implementing a robust relational database to manage the complete academic lifecycle of university students while integrating social and behavioral factors that influence performance.
