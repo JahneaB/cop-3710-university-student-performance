@@ -1,1 +1,1 @@
-![ER Diagram](er_diagram.png)
+![ER Diagram](database.drawio.png)
