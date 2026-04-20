@@ -140,9 +140,9 @@ elif option == "Find students below the school-wide average with higher risk ind
             for _, row in df.iterrows():
                 risk_flags = []
 
-                if row["Workday Alcohol Consumption"] >= alcohol_threshold:
+                if row["Workday_Alcohol"] >= alcohol_threshold:
                     risk_flags.append("high workday alcohol use")
-                if row["Weekend Alcohol Consumption"] >= alcohol_threshold:
+                if row["Weekend_Alcohol"] >= alcohol_threshold:
                     risk_flags.append("high weekend alcohol use")
                 if row["Health_Status"] >= health_threshold:
                     risk_flags.append("high health risk")
