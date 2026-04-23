@@ -65,6 +65,10 @@ The dashboard allows users to select from five different analytical features, in
 
 
 ![Uploading image.png…]()
+<img width="788" height="448" alt="Screenshot 2026-04-23 141940" src="https://github.com/user-attachments/assets/aeb52dae-9ed7-4d20-ae31-40c2900f3c95" />
+
 
 
 <ins>ER Diagram</ins>
+
+<img width="725" height="437" alt="Screenshot 2026-02-19 130843" src="https://github.com/user-attachments/assets/7ba1bb80-0b3d-4349-b25c-93f2e64597b6" />
