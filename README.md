@@ -64,7 +64,7 @@ streamlit run use_app.py
 The dashboard allows users to select from five different analytical features, including improvement tracking and health-risk indicators.
 
 
-![Uploading image.png…]()
+
 <img width="788" height="448" alt="Screenshot 2026-04-23 141940" src="https://github.com/user-attachments/assets/aeb52dae-9ed7-4d20-ae31-40c2900f3c95" />
 
 
