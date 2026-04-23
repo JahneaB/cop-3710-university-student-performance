@@ -22,12 +22,14 @@ Data Integrity: Implementing constraints and triggers to ensure enrollment rules
 Insight Generation: Developing a user-facing application that allows administrators to identify at-risk students based on a combination of academic performance (G1, G2, G3 grades) and lifestyle indicators (alcohol consumption, health status).
 
 <ins>Team Roles</ins>
+
 Jahnea Bush: Solution Architect & Database Administrator (Schema design, Oracle 11g implementation, and SQL optimization).
 
 Justine Bailey: Designer & Application Developer (Front-end interface using Streamlit, data preprocessing, and Python-Oracle integration).
 
-Database Design
-Database Design
+
+<ins>Database Design</ins>
+
 Implementation: Built using SQLite (standard Python integration).
 
 Data Handling: Preprocessed using Python (pandas) and loaded from the UCI Student Alcohol dataset.
