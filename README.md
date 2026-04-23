@@ -6,11 +6,13 @@ Authors: Jahnea Bush & Justine Bailey
 
 
 <ins>Project Summary</ins>
+
 This project involves the design and implementation of a robust academic database system. The system tracks student demographics, course details, enrollments, grades, and behavioral data. Beyond simple storage, the database enforces academic integrity through prerequisite enforcement triggers and automates administrative tasks using GPA computation procedures and transcript generation queries.
 
 The dataset used for this project is sourced from the Student Alcohol Consumption dataset, which provides a rich foundation for analyzing how social factors and study habits correlate with academic performance.
 
 <ins>The Task</ins>
+
 The primary objective of this project was to build a functional relational database that bridges the gap between raw data and actionable academic insights. We were tasked with:
 
 Schema Modeling: Designing a relational structure to handle complex many-to-many relationships between students and courses.
@@ -33,6 +35,7 @@ Data Handling: Preprocessed using Python (pandas) and loaded from the UCI Studen
 Scale: All tables are populated with over 100 records to ensure meaningful query results.
 
 <ins>Key Features</ins>
+
 Significant Improvement Tracking: Identifies students who have jumped significantly in performance between midterms (G1) and finals (G3).
 
 Risk Factor Analysis: Correlates workday/weekend alcohol consumption with GPA to find behavioral patterns.
@@ -40,6 +43,7 @@ Risk Factor Analysis: Correlates workday/weekend alcohol consumption with GPA to
 Automated Reporting: Real-time generation of top-performer lists by subject.
 
 <ins>How to Use This Repo</ins>
+
 Follow these steps to set up the environment and run the application:
 
 Step 1: Initialize & Populate the Database
